@@ -6,7 +6,8 @@
 <p>📚 Acredito no poder da colaboração e no aprendizado contínuo para criar interfaces incríveis.</p>
 <p>🎯 Objetivo: Crescer como desenvolvedor e contribuir para projetos que façam a diferença.</p>
 <br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejmartins2&hide=contribs,prs)
 
+![Ejmartins2](https://github-readme-stats.vercel.app/api?username=Ejmartins2&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejmartins2&langs_count=8)
 
